@@ -1,4 +1,4 @@
-package removeElements;
+package reverseLinkedList;
 
 public class t206 {
     /*

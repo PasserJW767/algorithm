@@ -1,4 +1,4 @@
-package removeElements;
+package exchangeLinkedListNeighborNodes;
 
 public class t24 {
     /*

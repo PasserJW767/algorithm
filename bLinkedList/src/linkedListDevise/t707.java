@@ -1,4 +1,4 @@
-package removeElements;
+package linkedListDevise;
 
 public class t707 {
     /*
