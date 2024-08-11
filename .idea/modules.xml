@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/aArray/aArray.iml" filepath="$PROJECT_DIR$/aArray/aArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/bLinkedList/bLinkedList.iml" filepath="$PROJECT_DIR$/bLinkedList/bLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cHashMap/cHashMap.iml" filepath="$PROJECT_DIR$/cHashMap/cHashMap.iml" />
     </modules>
   </component>
 </project>
