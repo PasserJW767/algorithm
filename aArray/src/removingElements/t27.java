@@ -54,6 +54,16 @@ public class t27 {
         }
         return leftIndex;
     }
+    // 快慢指针（再写一次）
+    public static int removeElement4(int[] nums, int val) {
+        int slow = 0;
+        for (int fast = 0; fast < nums.length; fast++) {
+            if (nums[fast] != val){
+                nums[slow++] = nums[fast];
+            }
+        }
+        return slow;
+    }
     public static void main(String[] args) {
         System.out.println(removeElement1(new int[]{3,2,2,3}, 3)); // Output: 2
         System.out.println(removeElement1(new int[]{0,1,2,2,3,0,4,2}, 2)); // Output: 5
@@ -61,5 +71,7 @@ public class t27 {
         System.out.println(removeElement2(new int[]{0,1,2,2,3,0,4,2}, 2)); // Output: 5
         System.out.println(removeElement3(new int[]{3,2,2,3}, 3)); // Output: 2
         System.out.println(removeElement3(new int[]{0,1,2,2,3,0,4,2}, 2)); // Output: 5
+        System.out.println(removeElement4(new int[]{3,2,2,3}, 3)); // Output: 2
+        System.out.println(removeElement4(new int[]{0,1,2,2,3,0,4,2}, 2)); // Output: 5
     }
 }
