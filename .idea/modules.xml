@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/cHashMap/cHashMap.iml" filepath="$PROJECT_DIR$/cHashMap/cHashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/dStr/dStr.iml" filepath="$PROJECT_DIR$/dStr/dStr.iml" />
       <module fileurl="file://$PROJECT_DIR$/fStackAndQueue/fStackAndQueue.iml" filepath="$PROJECT_DIR$/fStackAndQueue/fStackAndQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gBinaryTree/gBinaryTree.iml" filepath="$PROJECT_DIR$/gBinaryTree/gBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/kMonotoneStack/kMonotoneStack.iml" filepath="$PROJECT_DIR$/kMonotoneStack/kMonotoneStack.iml" />
     </modules>
   </component>
