@@ -1,4 +1,4 @@
-package view;
+package levelTraversal;
 
 import traversal.t102levelOrderTraversal;
 
