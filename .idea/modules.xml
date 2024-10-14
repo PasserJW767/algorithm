@@ -9,7 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/dStr/dStr.iml" filepath="$PROJECT_DIR$/dStr/dStr.iml" />
       <module fileurl="file://$PROJECT_DIR$/fStackAndQueue/fStackAndQueue.iml" filepath="$PROJECT_DIR$/fStackAndQueue/fStackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/gBinaryTree/gBinaryTree.iml" filepath="$PROJECT_DIR$/gBinaryTree/gBinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jDP/jDP.iml" filepath="$PROJECT_DIR$/jDP/jDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/kMonotoneStack/kMonotoneStack.iml" filepath="$PROJECT_DIR$/kMonotoneStack/kMonotoneStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcodeHot100/leetcodeHot100.iml" filepath="$PROJECT_DIR$/leetcodeHot100/leetcodeHot100.iml" />
     </modules>
   </component>
 </project>

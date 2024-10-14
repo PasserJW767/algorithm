@@ -1,20 +1,15 @@
+import java.lang.reflect.Constructor;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+import java.util.*;
+
 public class Main {
-    public static int removeDuplicates(int[] nums) {
-        int slowIndex = 0;
-        for (int fastIndex = 0; fastIndex < nums.length; fastIndex++){
-            System.out.println("start-------fastIndex=" + fastIndex);
-            if (nums[fastIndex] != nums[slowIndex]){
-                nums[++slowIndex] = nums[fastIndex];
-            }
-            System.out.println("end-------fastIndex=" + fastIndex);
-        }
-        return ++slowIndex;
-    }
     public static void main(String[] args) {
-//        int[] arr = {1, 2, 3};
-//        int[] arr = {1, 1, 2};
-        int[] arr = {0,0,1,1,1,2,2,3,3,4};
-        System.out.println(arr.length);
-        System.out.println(removeDuplicates(arr));
+        HashMap<Integer, Integer> map = new HashMap<>();
+        Integer int_var1 = 1;
+        Integer int_var2 = 2;
+        map.put(int_var1, int_var2);
+        int_var1 = 2;
+        System.out.println(map.get(1));
     }
 }
